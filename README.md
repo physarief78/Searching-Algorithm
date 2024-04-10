@@ -1,0 +1,3 @@
+In this file i created about two of searching algorithm that made by python programming language.
+The searching algorithms are Bidirectional Search and Iterative Deepening Search.
+Enjoy...
